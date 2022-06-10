@@ -1,0 +1,14 @@
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\bin\Debug\net6.0\PJ3.Data.deps.json
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\bin\Debug\net6.0\PJ3.Data.runtimeconfig.json
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\bin\Debug\net6.0\PJ3.Data.dll
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\bin\Debug\net6.0\PJ3.Data.pdb
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.csproj.AssemblyReference.cache
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.AssemblyInfoInputs.cache
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.AssemblyInfo.cs
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.csproj.CoreCompileInputs.cache
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.dll
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\refint\PJ3.Data.dll
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.pdb
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.genruntimeconfig.cache
+D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\ref\PJ3.Data.dll
