@@ -12,3 +12,17 @@ D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debu
 D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.pdb
 D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.genruntimeconfig.cache
 D:\Coder\VisualStudio\Source\Repos\AptechEAP\Pratical\Project3\PJ3.Data\obj\Debug\net6.0\ref\PJ3.Data.dll
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\bin\Debug\net6.0\PJ3.Data.deps.json
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\bin\Debug\net6.0\PJ3.Data.runtimeconfig.json
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\bin\Debug\net6.0\PJ3.Data.dll
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\bin\Debug\net6.0\ref\PJ3.Data.dll
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\bin\Debug\net6.0\PJ3.Data.pdb
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.csproj.AssemblyReference.cache
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.AssemblyInfoInputs.cache
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.AssemblyInfo.cs
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.csproj.CoreCompileInputs.cache
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.dll
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\obj\Debug\net6.0\ref\PJ3.Data.dll
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.pdb
+D:\Project\Project_Java\Git\projectsem3\PJ3.Data\obj\Debug\net6.0\PJ3.Data.genruntimeconfig.cache

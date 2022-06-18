@@ -11782,24 +11782,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "D:\\Coder\\Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\inter\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coder\\VisualStudio\\Source\\Repos\\AptechEAP\\Pratical\\Project3\\PJ3.Web\\PJ3.Web.csproj",
+      "projectUniqueName": "D:\\Project\\Project_Java\\Git\\projectsem3\\PJ3.Web\\PJ3.Web.csproj",
       "projectName": "PJ3.Web",
-      "projectPath": "D:\\Coder\\VisualStudio\\Source\\Repos\\AptechEAP\\Pratical\\Project3\\PJ3.Web\\PJ3.Web.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Coder\\VisualStudio\\Source\\Repos\\AptechEAP\\Pratical\\Project3\\PJ3.Web\\obj\\",
+      "projectPath": "D:\\Project\\Project_Java\\Git\\projectsem3\\PJ3.Web\\PJ3.Web.csproj",
+      "packagesPath": "C:\\Users\\inter\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\Project_Java\\Git\\projectsem3\\PJ3.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Coder\\Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\inter\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11813,14 +11808,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Coder\\VisualStudio\\Source\\Repos\\AptechEAP\\Pratical\\Project3\\PJ3.Data\\PJ3.Data.csproj": {
-              "projectPath": "D:\\Coder\\VisualStudio\\Source\\Repos\\AptechEAP\\Pratical\\Project3\\PJ3.Data\\PJ3.Data.csproj"
+            "D:\\Project\\Project_Java\\Git\\projectsem3\\PJ3.Data\\PJ3.Data.csproj": {
+              "projectPath": "D:\\Project\\Project_Java\\Git\\projectsem3\\PJ3.Data\\PJ3.Data.csproj"
             },
-            "D:\\Coder\\VisualStudio\\Source\\Repos\\AptechEAP\\Pratical\\Project3\\PJ3.Repo\\PJ3.Repo.csproj": {
-              "projectPath": "D:\\Coder\\VisualStudio\\Source\\Repos\\AptechEAP\\Pratical\\Project3\\PJ3.Repo\\PJ3.Repo.csproj"
+            "D:\\Project\\Project_Java\\Git\\projectsem3\\PJ3.Repo\\PJ3.Repo.csproj": {
+              "projectPath": "D:\\Project\\Project_Java\\Git\\projectsem3\\PJ3.Repo\\PJ3.Repo.csproj"
             },
-            "D:\\Coder\\VisualStudio\\Source\\Repos\\AptechEAP\\Pratical\\Project3\\PJ3.Service\\PJ3.Service.csproj": {
-              "projectPath": "D:\\Coder\\VisualStudio\\Source\\Repos\\AptechEAP\\Pratical\\Project3\\PJ3.Service\\PJ3.Service.csproj"
+            "D:\\Project\\Project_Java\\Git\\projectsem3\\PJ3.Service\\PJ3.Service.csproj": {
+              "projectPath": "D:\\Project\\Project_Java\\Git\\projectsem3\\PJ3.Service\\PJ3.Service.csproj"
             }
           }
         }
@@ -11876,7 +11871,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

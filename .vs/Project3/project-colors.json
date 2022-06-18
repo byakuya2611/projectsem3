@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c0f2fb4-27e6-46ea-b526-42dbae0bbff1": {
+      "ProjectGuid": "0c0f2fb4-27e6-46ea-b526-42dbae0bbff1",
+      "DisplayName": "PJ3.Web",
+      "ColorIndex": 0
+    },
+    "67dd8fa8-ee11-429e-9f52-5b660368cc9c": {
+      "ProjectGuid": "67dd8fa8-ee11-429e-9f52-5b660368cc9c",
+      "DisplayName": "PJ3.Repo",
+      "ColorIndex": 1
+    },
+    "8a4c68a6-1331-4292-bacd-409040d30211": {
+      "ProjectGuid": "8a4c68a6-1331-4292-bacd-409040d30211",
+      "DisplayName": "PJ3.Service",
+      "ColorIndex": 2
+    },
+    "0c5e475b-73cf-4af2-bb8e-b81b03e2e7d9": {
+      "ProjectGuid": "0c5e475b-73cf-4af2-bb8e-b81b03e2e7d9",
+      "DisplayName": "PJ3.Data",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
